@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    <home msg="Home component"></home>
                 </div>
             </div>
         </div>
