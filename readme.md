@@ -8,9 +8,9 @@ VueJS is a Javascript framework
 
 ## Axios / JSON
 
-Pass data from one end to the other
+Axios passes JSON-formatted data from one end to the other
 
-## MySql
+## MariaDB
 
 Persists data on the server
 
